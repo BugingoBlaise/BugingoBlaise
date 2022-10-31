@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BugingoBlaise
 - 👀 I’m interested in Learning Coding
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django,Java and Javascript
 - 💞️ I’m looking to collaborate on many staffs aboutcoding 
 - 📫 How to reach me : Leave a message on blaisemugisha1@gmail.com
 
