@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BugingoBlaise
-- 👀 I’m interested in Learning Coding
-- 🌱 I’m currently working on .NET,Java, Spring and React, and  Angular Projects
-- 💞️ I’m looking to collaborate on many staffs software development 
-- 📫 How to reach me : Leave a message on blaisemugisha1@gmail.com
+- 👋 Hi, I'm Blaise, a Software Engineer based in Kigali, Rwanda
+- 🌱 I'm currently working with .NET, Java/Spring Boot, Nest, Next, and Angular
+- 🏦 Focused on backend and frontend development, mostly financial softwares
+  📭 Open to collaborating on software projects
+- 📫 Reach me at: blaisemugisha1@gmail.com
 
 <!---
 BugingoBlaise/BugingoBlaise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
